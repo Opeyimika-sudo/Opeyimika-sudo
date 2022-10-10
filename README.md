@@ -1,6 +1,6 @@
 <h3>Meet Me</h3>
 
-- 👋 Hi, I’m Opeyimika, a Full-Stack Developer with a heart for solving hard problems. I come from a healthcare background, but my head is buried in code, and my heart is thirsty to understand the fundamentals and hungry to solve difficult problems. 
+- 👋 Hi, I’m Opeyimika, a Full-Stack Software Engineer. I come from a healthcare background, but my head is buried in code, and my heart is thirsty to understand the fundamentals and hungry to solve difficult problems. 
 
 
 - 👀 I’m interested in building front-end and back-end projects that delight and solve the problems of users. 
