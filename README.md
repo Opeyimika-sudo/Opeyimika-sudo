@@ -4,12 +4,13 @@
 
 
 - 👀 I’m interested in building front-end and back-end projects that delight and solve the problems of users. 
-- 🌱 I’m currently building projects with JavaScript and Flask using the Udacity Full-stack Web Nanodegree💪.
+- 🌱 I’m currently solidifying my knowledge of ReactJS and writing [articles](https://opeyimikaaremu.hashnode.dev/) on what I'm currently learning.
 - 💞️ I’m looking to collaborate on open source projects, network with like-minded people and ultimately form meaningful friendships.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Javascript | Python 
+- 🛠️ &nbsp; ReactJS | Flask
 - 🌐 &nbsp; HTML | CSS | Bootstrap
 - 🛢 &nbsp; Postgresql | SQL | SQLAlchemy
 - 🔧 &nbsp; Git | Postman API | GitHub 
